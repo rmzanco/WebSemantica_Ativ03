@@ -1,0 +1,4 @@
+Como Fazer?
+1 - Puxar os dados: requests.get
+2 - após isso, ler na documentação da API como puxar os dados corretos.
+3 - Printar a lista c/ dados corretos
